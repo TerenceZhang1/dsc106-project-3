@@ -10,10 +10,10 @@ https://terencezhang1.github.io/dsc106-project-3/
 
 ## Authors
 
-Terence Zhang  
-Siddhartha Sarvepally
-Cedric Jeng
-Steven Ouyang
+- Terence Zhang  
+- Siddhartha Sarvepally
+- Cedric Jeng
+- Steven Ouyang
 
 ## Overview
 
